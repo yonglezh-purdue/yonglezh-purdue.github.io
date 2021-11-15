@@ -11,7 +11,7 @@ redirect_from:
 Yongle Zhang is a tenure-track assistant professor in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. 
 He received his Ph.D. from the [University of Toronto](https://www.utoronto.ca/) working with [Dr. Ding Yuan](https://www.eecg.utoronto.ca/~yuan/Home.html). 
 He was recommended to [Institute of Computing Technologies](http://english.ict.cas.cn/) for Master's program 
-after he received my Bachelor’s degree from [Shandong University](http://www.cs.en.qd.sdu.edu.cn/).
+after he received his Bachelor’s degree from [Shandong University](http://www.cs.en.qd.sdu.edu.cn/).
 
 <!-- I am a tenure-track assistant professor in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. 
 I obtained Ph.D. at the [Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/), University of Toronto. 
