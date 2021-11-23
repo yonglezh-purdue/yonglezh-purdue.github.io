@@ -48,8 +48,9 @@ My research interest is in systems software with a focus on improving the reliab
 
 # News
 
+- [Dec. 2021] Min-Ju Li will intern in [Cloudera](https://www.cloudera.com/) in summer 2022! 
 - [Nov. 2021] Our paper about concurrency bugs in persistent memory applications was accepted to ASPLOS 2022!
-- [Oct. 2021] Our paper about upgrade failures in distributed systems was accepted to SOSP 2021!
+- [Oct. 2021] Our paper about upgrade failures in distributed systems appeared on SOSP 2021!
 - [Jan. 2021] I will join Purdue CS as a tenure-track assistant professor.
 
 # Recent Publications
