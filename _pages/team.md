@@ -5,8 +5,9 @@ permalink: /team/
 author_profile: true
 ---
 
-- [Shangshu Qian](https://www.cs.purdue.edu/people/graduate-students/qian151.html) (PhD) (co-advised with Lin Tan)
+- [Shangshu Qian](https://shangshu-qian.com/) (PhD) (co-advised with Lin Tan)
 - [Ke Han](https://hanke580.github.io/) (PhD)
 - [Panchapakesan Chitra Sruthi](https://www.cs.purdue.edu/people/graduate-students/psruthi.html) (PhD)
+- [Wen Fan](https://fanweneddie.github.io/) (PhD)
 - Min-Ju Li (Master)
 - Zinan Guo (Master)

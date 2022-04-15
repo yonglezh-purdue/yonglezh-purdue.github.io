@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-- Efficiently Detecting Concurrency Bugs in Persistent Memory Programs (Camera ready in preparation). 
+- Efficiently Detecting Concurrency Bugs in Persistent Memory Programs \[[pdf](https://dl.acm.org/doi/10.1145/3503222.3507755)\]\[[code](https://github.com/yhuacode/pmrace)\]. 
 Zhangyu Chen, Yu Hua, **Yongle Zhang**, Luochangqi Ding. The 2022 Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS'22**).
 - Understanding and Detecting Software Upgrade Failures in Distributed Systems \[[pdf](/files/sosp21-upgrade.pdf)\]\[[code](https://github.com/zlab-purdue/ds-upgrade)\]. 
 **Yongle Zhang**, Junwen Yang, Zhuqi Jin, Utsav Sethi, Shan Lu, Ding Yuan. The 28th ACM Symposium on Operating Systems Principles (**SOSP’21**), October 2021.
