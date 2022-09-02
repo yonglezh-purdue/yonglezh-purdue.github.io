@@ -48,7 +48,7 @@ My research interest is in systems software with a focus on improving the reliab
 
 # News
 
-- [Aug. 2022] We received Meta 2022 Systems Research Award! Many thanks to [Meta](https://about.facebook.com/) and [Meta Research](https://research.facebook.com/). 
+- [Aug. 2022] We received [Meta 2022 Systems Research Award](https://research.facebook.com/research-award-recipients/year/2022/)! Many thanks to [Meta](https://about.facebook.com/) and [Meta Research](https://research.facebook.com/). 
 - [Dec. 2021] We received an NSF Core grant! Many thanks to NSF and [Pedro Fonseca](https://www.cs.purdue.edu/homes/pfonseca/). 
 - [Dec. 2021] Min-Ju Li will intern in [Cloudera](https://www.cloudera.com/) in summer 2022! 
 - [Nov. 2021] Our paper about concurrency bugs in persistent memory applications was accepted to ASPLOS 2022!
