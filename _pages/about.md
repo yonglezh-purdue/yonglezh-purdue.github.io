@@ -48,6 +48,7 @@ My research interest is in systems software with a focus on improving the reliab
 
 # News
 
+- [Jan. 2023] Our [paper](/files/sosp19-kairux.pdf) on root cause diagnosis is invited to publish in USENIX [;login:](https://www.usenix.org/publications/loginonline/kairux-distributed-system-fault-localization-based-inflection-point).
 - [Nov. 2022] I was fortunate to receive [The SIGOPS Dennis M. Ritchie Thesis Award](https://www.sigops.org/2022/dmr-2022/). Many thanks to my advisor - [Ding Yuan](https://www.eecg.utoronto.ca/~yuan/Home.html) - and all my collaborators! 
 - [Aug. 2022] We received [Meta 2022 Systems Research Award](https://research.facebook.com/research-award-recipients/year/2022/)! Many thanks to [Meta](https://about.facebook.com/) and [Meta Research](https://research.facebook.com/). 
 - [Dec. 2021] We received an NSF Core grant! Many thanks to NSF and [Pedro Fonseca](https://www.cs.purdue.edu/homes/pfonseca/). 
