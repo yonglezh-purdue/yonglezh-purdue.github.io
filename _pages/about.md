@@ -59,9 +59,7 @@ My research interest is in systems software with a focus on improving the reliab
 
 # Recent Publications
 
-- Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems. 
-Lilia Tang, Chaitanya Bhandari, Yongle Zhang, Anna Karanika, Shuyang Ji, Indranil Gupta, and Tianyin Xu. 
-To Appear In Proceedings of the 18th European Conference on Computer Systems (EuroSys'23).
+- Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems. Lilia Tang, Chaitanya Bhandari, Yongle Zhang, Anna Karanika, Shuyang Ji, Indranil Gupta, and Tianyin Xu. To Appear In Proceedings of the 18th European Conference on Computer Systems (EuroSys'23).
 - Efficiently Detecting Concurrency Bugs in Persistent Memory Programs \[[pdf](https://dl.acm.org/doi/10.1145/3503222.3507755)\]\[[code](https://github.com/yhuacode/pmrace)\]. 
 Zhangyu Chen, Yu Hua, **Yongle Zhang**, Luochangqi Ding. The 2022 Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS'22**).
 - Understanding and Detecting Software Upgrade Failures in Distributed Systems \[[pdf](/files/sosp21-upgrade.pdf)\]\[[code](https://github.com/zlab-purdue/ds-upgrade)\]. 
