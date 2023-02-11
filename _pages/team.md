@@ -11,5 +11,6 @@ author_profile: true
 - [Wen Fan](https://fanweneddie.github.io/) (PhD)
 - Zinan Guo (Master)
 
-Alumni
+# Alumni
+
 - Min-Ju Li (Master), Apple Inc.
