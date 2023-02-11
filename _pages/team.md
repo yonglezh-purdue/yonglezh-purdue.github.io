@@ -9,5 +9,7 @@ author_profile: true
 - [Ke Han](https://hanke580.github.io/) (PhD)
 - [Panchapakesan Chitra Sruthi](https://www.cs.purdue.edu/people/graduate-students/psruthi.html) (PhD)
 - [Wen Fan](https://fanweneddie.github.io/) (PhD)
-- Min-Ju Li (Master)
 - Zinan Guo (Master)
+
+Alumni
+- Min-Ju Li (Master), Apple Inc.
