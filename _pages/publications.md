@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-- Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems. 
+- Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems \[[pdf](https://tianyin.github.io/pub/csi-failures.pdf)\]\[[data/code](https://github.com/xlab-uiuc/csi-ae)\]. 
 Lilia Tang, Chaitanya Bhandari, Yongle Zhang, Anna Karanika, Shuyang Ji, Indranil Gupta, and Tianyin Xu. 
 To Appear In Proceedings of the 18th European Conference on Computer Systems (EuroSys'23).
 - Efficiently Detecting Concurrency Bugs in Persistent Memory Programs \[[pdf](https://dl.acm.org/doi/10.1145/3503222.3507755)\]\[[code](https://github.com/yhuacode/pmrace)\]. 
