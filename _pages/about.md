@@ -60,9 +60,12 @@ My research interest is in systems software with a focus on improving the reliab
 
 # Recent Publications
 
+- Vicious Cycles in Distributed Software Systems. \[[pdf](https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf)\]\[[data/code](https://github.com/lin-tan/vcstudy)\]. 
+Shangshu Qian, Wen Fan, Lin Tan, and Yongle Zhang. 
+In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23).
 - Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems \[[pdf](https://tianyin.github.io/pub/csi-failures.pdf)\]\[[data/code](https://github.com/xlab-uiuc/csi-ae)\]. 
 Lilia Tang, Chaitanya Bhandari, Yongle Zhang, Anna Karanika, Shuyang Ji, Indranil Gupta, and Tianyin Xu. 
-To Appear In Proceedings of the 18th European Conference on Computer Systems (EuroSys'23).
+In Proceedings of the 18th European Conference on Computer Systems (EuroSys'23).
 - Efficiently Detecting Concurrency Bugs in Persistent Memory Programs \[[pdf](https://dl.acm.org/doi/10.1145/3503222.3507755)\]\[[code](https://github.com/yhuacode/pmrace)\]. 
 Zhangyu Chen, Yu Hua, **Yongle Zhang**, Luochangqi Ding. The 2022 Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS'22**).
 - Understanding and Detecting Software Upgrade Failures in Distributed Systems \[[pdf](/files/sosp21-upgrade.pdf)\]\[[code](https://github.com/zlab-purdue/ds-upgrade)\]. 
