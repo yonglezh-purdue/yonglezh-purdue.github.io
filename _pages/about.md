@@ -60,6 +60,10 @@ My research interest is in systems software with a focus on improving the reliab
 
 # Recent Publications
 
+- Demystifying Developers’ Fight Against Complexity: A Comprehensive Study of
+  Live Debugging Activities in Production Cloud Systems. 
+Panchapakesan Chitra Sruthi, Zinan Guo, Deming Chu, Zhengyan Chen, and Yongle Zhang. 
+In Proceedings of the 15th ACM Symposium on Cloud Computing (SoCC’24). 
 - Vicious Cycles in Distributed Software Systems. \[[pdf](https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf)\]\[[data/code](https://github.com/lin-tan/vcstudy)\]. 
 Shangshu Qian, Wen Fan, Lin Tan, and Yongle Zhang. 
 In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23).
