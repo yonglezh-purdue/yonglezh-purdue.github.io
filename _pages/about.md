@@ -44,7 +44,9 @@ His Chinese given name is 永乐(Yong Le), pronounced as 永/juŋ/ 乐/lə/.
 
 # Research
 
-My research interest is in systems software with a focus on improving the reliability and availability of complex, real-world systems. In particular, we are currently working on cutting-edge tools that help developers with failure detection and diagnosis in production cloud systems, as well as design and implementation of diagnosable software systems. 
+My research interest is in systems software with a focus on improving the reliability and availability of complex, real-world systems. 
+In particular, we are currently working on failure detection and diagnosis in production cloud systems, as well as design and implementation of diagnosable software systems. 
+<!-- In particular, we are currently working on cutting-edge tools that help developers with failure detection and diagnosis in production cloud systems, as well as design and implementation of diagnosable software systems. -->
 
 # News
 
