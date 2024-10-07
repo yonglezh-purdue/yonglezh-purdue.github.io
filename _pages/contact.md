@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ### Office
-LWSN 1123-G\
-305 N University St\
+DSAI 2127\
+475 Stadium Mall Drive\ 
 Purdue University\
-West Lafayette, Indiana
+West Lafayette, IN 47907
 
 ### Email
 yonglezh(at)purdue(dot)edu
