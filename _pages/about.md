@@ -60,8 +60,8 @@ My research interest is in systems software with a focus on improving the reliab
 
 # Recent Publications
 
-- Demystifying Developers’ Fight Against Complexity: A Comprehensive Study of
-  Live Debugging Activities in Production Cloud Systems. 
+- Demystifying the Fight Against Complexity: A Comprehensive Study of
+  Live Debugging Activities in Production Cloud Systems. \[[pdf](files/socc24-live-debugging.pdf)\]\[[data/code](https://github.com/zlab-purdue/socc-24-debugging-study)\]. 
 Panchapakesan Chitra Sruthi, Zinan Guo, Deming Chu, Zhengyan Chen, and Yongle Zhang. 
 In Proceedings of the 15th ACM Symposium on Cloud Computing (SoCC’24). 
 - Vicious Cycles in Distributed Software Systems. \[[pdf](https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf)\]\[[data/code](https://github.com/lin-tan/vcstudy)\]. 
