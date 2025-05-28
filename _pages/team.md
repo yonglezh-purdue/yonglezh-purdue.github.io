@@ -10,7 +10,6 @@ author_profile: true
 - [Panchapakesan Chitra Sruthi](https://www.cs.purdue.edu/homes/psruthi/) (PhD)
 - [Yaoxu Song](https://heydrichbeillschmidt.github.io/) (PhD 2023)
 - [Bishal Basak Papan](https://bpapan.github.io/portfolio/#/) (PhD 2023)
-- [Xinchen Jin](https://nflsjxc.github.io/projects/) (PhD 2024)
 - [Deming Chu](https://cdm114514.github.io/) (PhD 2024)
 - [Yuyang Chen](https://yuyang-chen.com/) (PhD 2024)
 - Zinan Guo (Master)
