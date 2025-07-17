@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+- Understanding and Detecting Fail-Slow Hardware Failure Bugs in Cloud Systems. [[link](https://www.usenix.org/conference/atc25/presentation/dong)\]
+Gen Dong, Yu Hua, Yongle Zhang, Zhangyu Chen, and Menglei Chen. 
+In 2025 USENIX Annual Technical Conference (USENIX ATC 25).
 - Demystifying the Fight Against Complexity: A Comprehensive Study of
   Live Debugging Activities in Production Cloud Systems. \[[pdf](/files/socc24-live-debugging.pdf)\]\[[data/code](https://github.com/zlab-purdue/socc-24-debugging-study)\]\[[slides](/files/socc24-live-debugging-ppt.pdf)\]. 
 Panchapakesan Chitra Sruthi, Zinan Guo, Deming Chu, Zhengyan Chen, and Yongle Zhang. 
