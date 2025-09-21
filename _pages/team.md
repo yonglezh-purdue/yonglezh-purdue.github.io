@@ -12,8 +12,8 @@ author_profile: true
 - [Bishal Basak Papan](https://bpapan.github.io/portfolio/#/) (PhD 2023)
 <!-- - [Deming Chu](https://cdm114514.github.io/) (PhD 2024) -->
 - [Yuyang Chen](https://yuyang-chen.com/) (PhD 2024)
-- Zinan Guo (Master)
 
 # Alumni
 
 - Min-Ju Li (Master), Apple Inc.
+- Zinan Guo (Master), Ernst & Young LLP.
