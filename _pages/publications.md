@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+- CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations. 
+Shangshu Qian, Lin Tan, Yongle Zhang. 
+to appear in the European Conference on Computer Systems (EuroSys) 2026. 
 - Understanding and Detecting Fail-Slow Hardware Failure Bugs in Cloud Systems. [[link](https://www.usenix.org/conference/atc25/presentation/dong)\]
 Gen Dong, Yu Hua, Yongle Zhang, Zhangyu Chen, and Menglei Chen. 
 In 2025 USENIX Annual Technical Conference (USENIX ATC 25).
