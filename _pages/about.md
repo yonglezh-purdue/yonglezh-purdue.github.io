@@ -62,9 +62,19 @@ In particular, we are currently working on failure detection and diagnosis in pr
 
 # Recent Publications
 
+- UpFuzz: Detecting Data Format Incompatibility Bugs during Distributed Storage System Upgrade. 
+Ke Han, 
+Sruthi P C, 
+Yayu Wang, 
+Yaoxu Song, 
+Bishal Basak Papan, 
+Junwen Yang,  
+Pedro Fonseca, 
+Yongle Zhang. 
+To appear in The 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26). 
 - CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations. 
 Shangshu Qian, Lin Tan, Yongle Zhang. 
-to appear in the European Conference on Computer Systems (EuroSys) 2026. 
+To appear in the European Conference on Computer Systems (EuroSys) 2026. 
 - Understanding and Detecting Fail-Slow Hardware Failure Bugs in Cloud Systems. [[link](https://www.usenix.org/conference/atc25/presentation/dong)\]
 Gen Dong, Yu Hua, Yongle Zhang, Zhangyu Chen, and Menglei Chen. 
 In 2025 USENIX Annual Technical Conference (USENIX ATC 25).
