@@ -50,6 +50,7 @@ In particular, we are currently working on failure detection and diagnosis in pr
 
 # News
 
+- [Mar. 2026] Monish Muralicharan will intern in OpenAI in fall 2026! 
 - [Mar. 2023] Shangshu Qian will intern in Microsoft Research Redmond in summer 2023! 
 - [Jan. 2023] Our [paper](/files/sosp19-kairux.pdf) on root cause diagnosis is invited to publish in USENIX [;login:](https://www.usenix.org/publications/loginonline/kairux-distributed-system-fault-localization-based-inflection-point).
 - [Nov. 2022] I was fortunate to receive [The SIGOPS Dennis M. Ritchie Thesis Award](https://www.sigops.org/2022/dmr-2022/). Many thanks to my advisor - [Ding Yuan](https://www.eecg.utoronto.ca/~yuan/Home.html) - and all my collaborators! 
