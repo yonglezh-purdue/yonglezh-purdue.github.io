@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 - UpFuzz: Detecting Data Format Incompatibility Bugs during Distributed Storage System Upgrade.
+\[[pdf](files/nsdi26-upfuzz.pdf)\]\[[code](https://github.com/zlab-purdue/upfuzz)\]
 Ke Han,
 Sruthi P C,
 Yayu Wang,
@@ -24,7 +25,8 @@ Bishal Basak Papan,
 Junwen Yang,
 Pedro Fonseca,
 Yongle Zhang.
-To appear in The 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26).
+In The 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26).
+**Community Award for the best paper with code and/or data set publicly available.**
 - CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations. 
 \[[pdf](https://arxiv.org/abs/2509.26529)\]\[[code](https://github.com/Purdue-PFL/CSnake)\].
 Shangshu Qian, Lin Tan, Yongle Zhang. 

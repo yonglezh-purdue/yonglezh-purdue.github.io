@@ -50,6 +50,7 @@ In particular, we are currently working on failure detection and diagnosis in pr
 
 # News
 
+- [Mar. 2026] UpFuzz receives NSDI'26 "Community Award" for the best paper whose code and/or data set is made publicly available! 
 - [Mar. 2026] Monish Muralicharan will intern in OpenAI in fall 2026! 
 - [Mar. 2023] Shangshu Qian will intern in Microsoft Research Redmond in summer 2023! 
 - [Jan. 2023] Our [paper](/files/sosp19-kairux.pdf) on root cause diagnosis is invited to publish in USENIX [;login:](https://www.usenix.org/publications/loginonline/kairux-distributed-system-fault-localization-based-inflection-point).
@@ -64,6 +65,7 @@ In particular, we are currently working on failure detection and diagnosis in pr
 # Recent Publications
 
 - UpFuzz: Detecting Data Format Incompatibility Bugs during Distributed Storage System Upgrade. 
+\[[pdf](files/nsdi26-upfuzz.pdf)\]\[[code](https://github.com/zlab-purdue/upfuzz)\]
 Ke Han, 
 Sruthi P C, 
 Yayu Wang, 
@@ -72,7 +74,8 @@ Bishal Basak Papan,
 Junwen Yang,  
 Pedro Fonseca, 
 Yongle Zhang. 
-To appear in The 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26). 
+In The 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26). 
+**Community Award for the best paper with code and/or data set publicly available.**
 - CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations. 
 \[[pdf](https://arxiv.org/abs/2509.26529)\]\[[code](https://github.com/Purdue-PFL/CSnake)\].
 Shangshu Qian, Lin Tan, Yongle Zhang. 
