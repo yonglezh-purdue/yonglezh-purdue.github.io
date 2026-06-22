@@ -12,7 +12,7 @@ author_profile: true
 - [Bishal Basak Papan](https://bpapan.github.io/portfolio/#/) (PhD)
 <!-- - [Deming Chu](https://cdm114514.github.io/) (PhD 2024) -->
 <!-- - [Yuyang Chen](https://yuyang-chen.com/) (PhD 2024) -->
-- [Youyang Kim] (PhD)
+- Youyang Kim (PhD)
 
 - Monish Muralicharan (Purdue Undergrad)
 
