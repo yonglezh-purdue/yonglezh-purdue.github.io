@@ -10,8 +10,8 @@ redirect_from:
 
 Yongle Zhang is a tenure-track assistant professor in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. 
 He received his Ph.D. from the [University of Toronto](https://www.utoronto.ca/) working with [Dr. Ding Yuan](https://www.eecg.utoronto.ca/~yuan/Home.html). 
-He was recommended to [Institute of Computing Technologies](http://english.ict.cas.cn/) for Master's program 
-after he received his Bachelor’s degree from [Shandong University](http://www.cs.en.qd.sdu.edu.cn/).
+He received his Master's degress from [Institute of Computing Technologies](http://english.ict.cas.cn/) 
+and his Bachelor’s degree from [Shandong University](http://www.cs.en.qd.sdu.edu.cn/).
 
 <!-- I am a tenure-track assistant professor in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. 
 I obtained Ph.D. at the [Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/), University of Toronto. 
@@ -50,8 +50,16 @@ In particular, we are currently working on failure detection and diagnosis in pr
 
 # News
 
+- [May 2026] Shangshu Qian has graduated and will join Google! Congratulations! 
 - [Mar. 2026] UpFuzz receives NSDI'26 "Community Award" for the best paper whose code and/or data set is made publicly available! 
 - [Mar. 2026] Monish Muralicharan will intern in OpenAI in fall 2026! 
+- [Apr. 2026] Our paper 
+\[[pdf](https://arxiv.org/abs/2509.26529)\]\[[code](https://github.com/Purdue-PFL/CSnake)\] 
+which detects self-sustaining failure propagations in distributed systems 
+using causally stitched fault injection experiments will appear in EuroSys 2026!
+- [July 2025] Our paper [[link](https://www.usenix.org/conference/atc25/presentation/dong)\] on detecting fail-slow hardware failures will appear in ATC 2025!
+- [Nov. 2024] Our study on how developers diagnose production failures \[[pdf](files/socc24-live-debugging.pdf)\]\[[data/code](https://github.com/zlab-purdue/socc-24-debugging-study)\]\[[slides](files/socc24-live-debugging-ppt.pdf)\] will appear in SoCC 2024!
+- [Sept. 2023] Our paper \[[pdf](https://www.cs.purdue.edu/homes/lintan/publications/vc-ase23.pdf)\]\[[data/code](https://github.com/lin-tan/vcstudy)\] on vicious cycles in distributed systems will appear in ASE 2023! 
 - [Mar. 2023] Shangshu Qian will intern in Microsoft Research Redmond in summer 2023! 
 - [Jan. 2023] Our [paper](/files/sosp19-kairux.pdf) on root cause diagnosis is invited to publish in USENIX [;login:](https://www.usenix.org/publications/loginonline/kairux-distributed-system-fault-localization-based-inflection-point).
 - [Nov. 2022] I was fortunate to receive [The SIGOPS Dennis M. Ritchie Thesis Award](https://www.sigops.org/2022/dmr-2022/). Many thanks to my advisor - [Ding Yuan](https://www.eecg.utoronto.ca/~yuan/Home.html) - and all my collaborators! 
