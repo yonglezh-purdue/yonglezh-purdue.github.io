@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+- Tamias: Feedback-Guided Systematic Concurrency Exploration for Transparent Distributed System Fuzzing.
+Congyu Liu,
+Yaoxu Song,
+Pedro Fonseca,
+Yongle Zhang.
+To appear in The 32nd Symposium on Operating Systems Principles (SOSP'26).
 - UpFuzz: Detecting Data Format Incompatibility Bugs during Distributed Storage System Upgrade.
 \[[pdf](files/nsdi26-upfuzz.pdf)\]\[[code](https://github.com/zlab-purdue/upfuzz)\]
 Ke Han,
