@@ -50,6 +50,7 @@ In particular, we are currently working on failure detection and diagnosis in pr
 
 # News
 
+- [July 2026] We received an **NSF Career Awrd** to support our research on cascading failure and failure propagation in distributed systems. Many thanks to NSF! 
 - [May 2026] Shangshu Qian has graduated and will join Google! Congratulations! 
 - [Mar. 2026] UpFuzz receives NSDI'26 "Community Award" for the best paper whose code and/or data set is made publicly available! 
 - [Mar. 2026] Monish Muralicharan will intern in OpenAI in fall 2026! 
@@ -75,6 +76,13 @@ using causally stitched fault injection experiments will appear in EuroSys 2026!
 - Tamias: Feedback-Guided Systematic Concurrency Exploration for Transparent Distributed System Fuzzing. 
 Congyu Liu, Yaoxu Song, Pedro Fonseca, Yongle Zhang. 
 To appear in The 32nd Symposium on Operating Systems Principles (SOSP'26).
+- ConfFuzz: Parameter-Aware Greybox Fuzzing for Configurable
+  Cloud Systems. 
+Shuai Wang, Hao Wang, Darko Marinov, Tianyin Xu, Yongle Zhang.
+To appear in the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE'26). 
+- Graceful Restart Testing for Distributed Systems via LLM-Based Test Transformation. 
+Shuai Wang, Yinfang Chen, Darko Marinov, Yongle Zhang. 
+To appear in 37th IEEE International Symposium on Software Reliability Engineering (ISSRE'26). 
 - UpFuzz: Detecting Data Format Incompatibility Bugs during Distributed Storage System Upgrade. 
 \[[pdf](files/nsdi26-upfuzz.pdf)\]\[[code](https://github.com/zlab-purdue/upfuzz)\]
 Ke Han, 

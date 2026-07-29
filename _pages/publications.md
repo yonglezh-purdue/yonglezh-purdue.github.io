@@ -21,6 +21,13 @@ Yaoxu Song,
 Pedro Fonseca,
 Yongle Zhang.
 To appear in The 32nd Symposium on Operating Systems Principles (SOSP'26).
+- ConfFuzz: Parameter-Aware Greybox Fuzzing for Configurable
+  Cloud Systems.
+Shuai Wang, Hao Wang, Darko Marinov, Tianyin Xu, Yongle Zhang.
+To appear in the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE'26).
+- Graceful Restart Testing for Distributed Systems via LLM-Based Test Transformation.
+Shuai Wang, Yinfang Chen, Darko Marinov, Yongle Zhang.
+To appear in 37th IEEE International Symposium on Software Reliability Engineering (ISSRE'26).
 - UpFuzz: Detecting Data Format Incompatibility Bugs during Distributed Storage System Upgrade.
 \[[pdf](files/nsdi26-upfuzz.pdf)\]\[[code](https://github.com/zlab-purdue/upfuzz)\]
 Ke Han,
