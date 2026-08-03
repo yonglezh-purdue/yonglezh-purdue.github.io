@@ -50,7 +50,7 @@ In particular, we are currently working on failure detection and diagnosis in pr
 
 # News
 
-- [July 2026] We received an **NSF Career Awrd** to support our research on cascading failure and failure propagation in distributed systems. Many thanks to NSF! 
+- [July 2026] We received an **NSF Career Award** to support our research on cascading failure and failure propagation in distributed systems. Many thanks to NSF! 
 - [May 2026] Shangshu Qian has graduated and will join Google! Congratulations! 
 - [Mar. 2026] UpFuzz receives NSDI'26 "Community Award" for the best paper whose code and/or data set is made publicly available! 
 - [Mar. 2026] Monish Muralicharan will intern in OpenAI in fall 2026! 
