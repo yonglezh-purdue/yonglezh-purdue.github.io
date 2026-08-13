@@ -13,6 +13,7 @@ author_profile: true
 <!-- - [Deming Chu](https://cdm114514.github.io/) (PhD 2024) -->
 <!-- - [Yuyang Chen](https://yuyang-chen.com/) (PhD 2024) -->
 - Youyang Kim (PhD)
+- Yuxiang Chen (PhD)(https://www.cs.purdue.edu/people/graduate-students/chen5219.html)
 
 - Monish Muralicharan (Purdue Undergrad)
 
